@@ -1,0 +1,20 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    font-family: 'Open Sans';
+}
+
+#content {
+    padding: 10px;
+    height: 100%;
+    width: 800px;
+    margin: auto;
+    border-left-width: 2px;
+    border-left-style: solid;
+    border-right-width: 2px;
+    border-right-style: solid;
+}
